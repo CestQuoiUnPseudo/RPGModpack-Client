@@ -3,8 +3,7 @@
 ## Installation
 
 ### **1) Telecharger PrismLauncher**
-Parce que c'est pratique, facile, permet d'installer des mods et packs de mods plus facilement et que c'est gratuit et open source https://prismlauncher.org/download/ (edited)
-Prism Launcher - Download Prism Launcher for Windows
+Parce que c'est pratique, facile, permet d'installer des mods et packs de mods plus facilement et que c'est gratuit et open source https://prismlauncher.org/download/
 
 _1.b) Telecharger Java_
 
@@ -14,10 +13,10 @@ https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe
 _1.c) Installer Java_
 
 Clique dessus, installe n'importe ou.
-Maintenant dans PrismLauncher, en haut "Parametres" -> "Java" -> "Détecter automatiquement" -> Actualiser" -> Java 17.0.4.1 (ou qqch comme ca, pas le 1.8.9_352 quoi). "Verifier" -> Réussi! -> ok. sinon taguez moi qq part (edited)
+Maintenant dans PrismLauncher, en haut "Parametres" -> "Java" -> "Détecter automatiquement" -> Actualiser" -> Java 17.0.4.1 (ou qqch comme ca, pas le 1.8.9_352 quoi). "Verifier" -> Réussi! -> ok. sinon taguez moi qq part
 
 ### **2) Identifier son compte Minecraft/microsoft**
-Dans PrismLauncher, en haut a droite, clique sur "configurer les comptes" -> "Ajouter un compte Microsoft" (si vous avez migré) ou "ajouter un compte Mojang" (si non) --- Fermer cette fenetre (edited)
+Dans PrismLauncher, en haut a droite, clique sur "configurer les comptes" -> "Ajouter un compte Microsoft" (si vous avez migré) ou "ajouter un compte Mojang" (si non) --- Fermer cette fenetre
 
 ### **3) Creer une instance pour le serveur moddé**
 En haut a gauche, "Ajouter une instance" -> "Vanille" -> "1.19.2" -> "Chargeur de mods: Fabric" -> nommez la ce que vous voulez -> OK
