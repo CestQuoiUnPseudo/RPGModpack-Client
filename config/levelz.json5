@@ -80,14 +80,14 @@
 	// Caution! Level up use independent levelz xp system
 	"useIndependentExp": true,
 	// XP equation: lvl^exponent * multiplicator + base
-	"xpCostMultiplicator": 0.10000000149011612,
+	"xpCostMultiplicator": 0.023499999195337296,
 	"xpExponent": 2,
 	"xpBaseCost": 50,
 	// 0 = no experience cap
 	"xpMaxCost": 0,
-	"resetCurrentXP": true,
-	"dropPlayerXP": true,
-	"dropXPbasedOnLvl": false,
+	"resetCurrentXP": false,
+	"dropPlayerXP": false,
+	"dropXPbasedOnLvl": true,
 	// 0.01 = 1% more xp per lvl
 	"basedOnMultiplier": 0.009999999776482582,
 	"breedingXPMultiplier": 1.0,
@@ -97,11 +97,11 @@
 	"furnaceXPMultiplier": 0.10000000149011612,
 	"oreXPMultiplier": 1.0,
 	"tradingXPMultiplier": 0.30000001192092896,
-	"mobXPMultiplier": 1.0,
+	"mobXPMultiplier": 0.5,
 	// Show the skill gui button in the inventory
 	"inventoryButton": true,
 	// Highlight locked blocks in red.
-	"highlightLocked": false,
+	"highlightLocked": true,
 	"sortCraftingRecipesBySkill": false,
 	"inventorySkillLevel": true,
 	"inventorySkillLevelPosX": 0,
